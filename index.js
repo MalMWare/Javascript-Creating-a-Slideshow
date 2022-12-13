@@ -96,3 +96,4 @@ slideshow.addEventListener('mouseover', function() {
 slideshow.addEventListener('mouseout', function() {
     pre.style.display = next.style.display = controls.style.display = 'none'
 }) 
+
